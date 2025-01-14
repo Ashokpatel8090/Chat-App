@@ -8,7 +8,7 @@ The application will allow users to register, log in, view a list of online user
 - Live previews
 - Fullscreen mode
 - Cross platform
--
+
 
 ## Authors
 
