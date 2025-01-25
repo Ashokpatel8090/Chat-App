@@ -2,6 +2,9 @@
 
 The application will allow users to register, log in, view a list of online users, and chat in a common chat room
 
+## ScreenShot
+<img src="../Frontend/public/chat-app.png">
+
 ## Features
 
 - Light/dark mode toggle
